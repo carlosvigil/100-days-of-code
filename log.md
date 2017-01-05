@@ -16,4 +16,4 @@
 
 **Thoughts:** Glad centering is fixed, or better.
 
-**Link to work:** [Tao Te Ching](https://github.com/carlosvigil/fcc-projects/commit/02d647c996b0869cca66655fea7e3d3e8b26d198)
+**Link to work:** [Tao Te Ching](https://github.com/carlosvigil/fcc-projects/commit/57f677de4e83fb866c590895c6dceff73139e438)
