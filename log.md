@@ -25,7 +25,7 @@
 
 **Today's Progress:** Reverted to BassCSS for flexbox and finally got the centering I needed across screen sizes, woot!
 
-**Thoughts:** Glad centering is at it's best. Still have to clean up font sizes and button alignments. Those share buttons are some finnicky little somethings. Coded for a couple hours and spent time reading issue threads on OOCSS/atomic css.
+**Thoughts:** Glad centering is at it's best. Still have to clean up font sizes and button alignments. Those share buttons are some finnicky little somethings. Coded for a couple hours and spent time reading issue threads on OOCSS/atomic css. IDEA: leaves animation after fade out.
 
 **Link to work:** [Tao Te Ching](https://github.com/carlosvigil/fcc-projects/commit/d6834538f89cd3e58ece817d7c83155b3b0adc7b)
 
