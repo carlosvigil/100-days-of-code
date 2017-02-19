@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Tuesday, January 3, 2016
+### Day 1: Tuesday, January 3, 2017
 ##### Continue Random Quote Machine (FCC)
 
 **Today's Progress:** Worked on the CSS some more and checked jQuery replacements.
@@ -10,7 +10,7 @@
 **Link to work:** [Tao Te Ching](https://github.com/carlosvigil/fcc-projects/commit/02d647c996b0869cca66655fea7e3d3e8b26d198)
 
 
-### Day 2: Wednesday, January 4, 2016
+### Day 2: Wednesday, January 4, 2017
 ##### Continue Random Quote Machine (FCC)
 
 **Today's Progress:** Worked on the CSS some more, changed fade animation to body since everything resizes onclick.
@@ -20,7 +20,7 @@
 **Link to work:** [Tao Te Ching](https://github.com/carlosvigil/fcc-projects/commit/57f677de4e83fb866c590895c6dceff73139e438)
 
 
-### Day 3: Thursday, January 5, 2016
+### Day 3: Thursday, January 5, 2017
 ##### Continue Random Quote Machine (FCC)
 
 **Today's Progress:** Reverted to BassCSS for flexbox and finally got the centering I needed across screen sizes, woot!
@@ -30,7 +30,7 @@
 **Link to work:** [Tao Te Ching](https://github.com/carlosvigil/fcc-projects/commit/d6834538f89cd3e58ece817d7c83155b3b0adc7b)
 
 
-### Day 4: Friday, January 6, 2016
+### Day 4: Friday, January 6, 2017
 ##### Continue Random Quote Machine (FCC)
 
 **Today's Progress:** about to start
