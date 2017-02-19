@@ -65,3 +65,13 @@ and the good becomes common as grass.
 To some this may seem crazy, but once you know, you'll want to remember.
 
 **Link to work:** [Tao Te Ching]()
+
+### Day 5: Sunday, February 19th 2017
+#### Restart FCC on Beta, contribute to QA
+
+**Today's Progress:** I've been working through the new FCC curriculum and mostly college assignments. 
+
+
+**Thoughts:** Haven't commited to this repo since my birthday, the 7th. Things like these make me irate, but I see the value it brings to other people. I've been enveloped in the field throughtout this hiatus but must confess a type of "failure" because I didn't keep these commits going. Whatever. I'm extremely happy FCC has updated their curriculum, it was feeling a bit dated, although it still uses react/bootstrap/jquery. Of course React will continue to be relevant but I'm going to try Rails and Vue, maybe even Elm.
+
+**Link to work:** [FCC Forum](https://forum.freecodecamp.com/t/our-expanded-curriculum-is-now-live-on-beta-freecodecamp-com-and-we-need-your-help-qaing-it/78844/210?u=cairos)
